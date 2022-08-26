@@ -1,2 +1,2 @@
 # twitter-data-sentiment-analysis
-Detecting hate speech (here: pieces of text indicating racist/sexist remarks)
+Using sentiment analysis for detecting hate speech (here: pieces of text indicating racist/sexist remarks)
